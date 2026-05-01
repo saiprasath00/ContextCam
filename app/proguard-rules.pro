@@ -1,0 +1,2 @@
+-keep class com.saiprasath.contextcam.data.model.** { *; }
+-keep class androidx.camera.** { *; }
