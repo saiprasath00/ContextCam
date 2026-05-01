@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 C44.059,38 36,46.059 36,56 C36,65.941 44.059,74 54,74 C63.941,74 72,65.941 72,56 C72,46.059 63.941,38 54,38z
+                          M54,68 C47.373,68 42,62.627 42,56 C42,49.373 47.373,44 54,44 C60.627,44 66,49.373 66,56 C66,62.627 60.627,68 54,68z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,32 L72,32 L68,26 L40,26 L36,32 L30,32 C27.791,32 26,33.791 26,36 L26,76 C26,78.209 27.791,80 30,80 L78,80 C80.209,80 82,78.209 82,76 L82,36 C82,33.791 80.209,32 78,32z
+                          M78,76 L30,76 L30,36 L38.059,36 L42.059,30 L65.941,30 L69.941,36 L78,36 L78,76z" />
+</vector>
